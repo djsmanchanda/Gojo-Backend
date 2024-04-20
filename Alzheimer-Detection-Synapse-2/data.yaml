@@ -1,0 +1,15 @@
+names:
+- CN
+- EMCI
+- LMCI
+- MCI
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: alzheimer-detection-synapse-29dth
+  url: https://universe.roboflow.com/abcd-03yre/alzheimer-detection-synapse-29dth/dataset/2
+  version: 2
+  workspace: abcd-03yre
+test: C:\Users\djsma\Downloads\Github_Desktop\Gojo-Backend\Alzheimer-Detection-Synapse-2\test\images
+train: C:\Users\djsma\Downloads\Github_Desktop\Gojo-Backend\Alzheimer-Detection-Synapse-2\train\images
+val: C:\Users\djsma\Downloads\Github_Desktop\Gojo-Backend\Alzheimer-Detection-Synapse-2\valid\images
